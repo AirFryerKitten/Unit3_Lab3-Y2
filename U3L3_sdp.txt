@@ -1,0 +1,7 @@
+1. When the len of the split list is 1
+
+2. By cutting in half
+
+3. I will divide by 2 then split the list in half
+
+4.Because we need to do the same small problem over and over again
